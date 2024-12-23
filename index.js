@@ -15,7 +15,7 @@ const memfs = new Volume();
 (async () => {
     console.log(`\nПросчитываем DISK..`);
 
-    let mb = 12;
+    let mb = 32;
 
     let c = '0'.repeat(1024);
 
