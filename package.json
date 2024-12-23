@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "memfs": "^4.15.1"
+  },
+  "name": "ram-vs-disk-tester",
+  "version": "1.0.0",
+  "description": "Покажет насколько ОЗУ быстрее твоего диска.",
+  "main": "index.js",
+  "keywords": [
+    "ram",
+    "disk",
+    "test"
+  ],
+  "author": "Acelotick",
+  "license": "UNLICENSED"
+}
